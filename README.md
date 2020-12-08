@@ -21,4 +21,4 @@ Hi, I'm Raphael and I'm a Full Stack Developer and I'm currently studying Comput
 
 
 
-![Raphael's github stats](https://github-readme-stats.vercel.app/api?username=raphaelluethy&count_private=true&theme=synthwave)
+![Raphael's github stats](https://github-readme-stats.vercel.app/api?username=raphaelluethy&count_private=true&theme=highcontrast)
