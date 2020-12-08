@@ -2,7 +2,7 @@
 
 <br />
 
-Hi, I'm Raphael and I'm a Full Stack Developer and I'm currently studying Computer Science.
+Hi, I'm Raphael and I'm a Full Stack Developer and currently studying Computer Science.
 
 [My Stackoveflow](https://stackoverflow.com/users/12544632/raphaelluethy?tab=profile)
 
