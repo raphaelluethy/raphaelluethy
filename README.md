@@ -6,7 +6,7 @@ Hi, I'm Raphael and I'm a Full Stack Developer and currently studying Computer S
 
 [My Stackoveflow](https://stackoverflow.com/users/12544632/raphaelluethy?tab=profile)
 
-<img align="right" width="450" alt="GIF" src="https://i.imgur.com/291lzxL.gif" />
+<img align="right" width="350" alt="GIF" src="https://i.imgur.com/291lzxL.gif" />
 
 **Languages and Tools:**  
 
