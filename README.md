@@ -2,7 +2,7 @@
 
 <br />
 
-Hi, I'm George, from 2016 to 2020 I was an apprentice software developer. In the first year I learnt the basics of software development and then for the last 3 years I worked for a team that is responsible for a payments system. Currently I am working on my bachelor in computer science.
+Hi, I'm Raphael and I'm a Full Stack Developer and I'm currently studying Computer Science.
 
 [My Stackoveflow](https://stackoverflow.com/users/12544632/raphaelluethy)
 
