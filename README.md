@@ -26,5 +26,5 @@ Hi, I'm Raphael and I'm a Full Stack Developer and currently studying Computer S
 
 
 
-![Raphael's github stats](https://github-readme-stats.vercel.app/api?username=raphaelluethy&count_private=true&theme=monokai&show_icons=true)
-![Raphael's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelluethy&layout=compact&theme=monokai)
+![Raphael's github stats](https://github-readme-stats.vercel.app/api?username=raphaelluethy&count_private=true&theme=onedark&show_icons=true)
+![Raphael's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelluethy&layout=compact&theme=onedark)
