@@ -18,38 +18,43 @@ Hi, I'm Raphael and I'm a Full Stack Developer and currently studying Computer S
 
 ## Tools:
 
-<img src="./assets/neovim-color.svg" width="30" />
-<img src="./assets/intellijidea-color.svg" width="30" />
-<img src="./assets/docker-color.svg" width="30" />
-<img src="./assets/postgresql-color.svg" width="30" />
-<img src="./assets/mysql-color.svg" width="30" />
-<img src="./assets/mongodb-color.svg" width="30" />
-<img src="./assets/microsoftazure-color.svg" width="30" />
-<img src="./assets/githubactions-color.svg" width="30" />
+<div>
+    <img src="./assets/neovim-color.svg" width="30" />
+    <img src="./assets/intellijidea-color.svg" width="30" />
+    <img src="./assets/docker-color.svg" width="30" />
+    <img src="./assets/postgresql-color.svg" width="30" />
+    <img src="./assets/mysql-color.svg" width="30" />
+    <img src="./assets/mongodb-color.svg" width="30" />
+    <img src="./assets/microsoftazure-color.svg" width="30" />
+    <img src="./assets/githubactions-color.svg" width="30" />
+</div>
 
 ## Languages and Frameworks:
-
-<img src="./assets/typescript-color.svg" width="30" />
-<img src="./assets/javascript-color.svg" width="30" />
-<img src="./assets/react-color.svg" width="30" />
-<img src="./assets/kotlin-color.svg" width="30" />
-<img src="./assets/java-color.svg" width="30" />
-<img src="./assets/cplusplus-color.svg" width="30" />
-<img src="./assets/lua-color.svg" width="30" />
-<img src="./assets/tailwindcss-color.svg" width="30" />
-<img src="./assets/latex-color.svg" width="30" />
-
+<div>
+    <img src="./assets/typescript-color.svg" width="30" />
+    <img src="./assets/javascript-color.svg" width="30" />
+    <img src="./assets/react-color.svg" width="30" />
+    <img src="./assets/kotlin-color.svg" width="30" />
+    <img src="./assets/java-color.svg" width="30" />
+    <img src="./assets/cplusplus-color.svg" width="30" />
+    <img src="./assets/lua-color.svg" width="30" />
+    <img src="./assets/tailwindcss-color.svg" width="30" />
+    <img src="./assets/latex-color.svg" width="30" />
+</div>
 
 ## Currently Learning:
 
-<img src="./assets/rust-color.svg" width="30" />
-<img src="./assets/scala-color.svg" width="30" />
-
+<div>
+    <img src="./assets/rust-color.svg" width="30" />
+    <img src="./assets/scala-color.svg" width="30" />
+</div>
 
 ## Wanting to learn
 
-<img src="./assets/ocaml-color.svg" width="30" />
-<img src="./assets/haskell-color.svg" width="30" />
+<div>
+    <img src="./assets/ocaml-color.svg" width="30" />
+    <img src="./assets/haskell-color.svg" width="30" />
+</div>
 
 ## Stats
 
