@@ -8,11 +8,15 @@ Hi, I'm Raphael and I'm a Full Stack Developer and currently studying Computer S
 
 <img align="right" width="300" alt="GIF" src="https://i.imgur.com/291lzxL.gif" />
 
+---
+
 **Vim Configs**
 
-[Neovim](https://github.com/raphaelluethy/nvim)
-[IdeaVim](https://github.com/raphaelluethy/ideavim)
-[VSCode Vim](https://github.com/raphaelluethy/vscode)
+- [Neovim](https://github.com/raphaelluethy/nvim)
+- [IdeaVim](https://github.com/raphaelluethy/ideavim)
+- [VSCode Vim](https://github.com/raphaelluethy/vscode)
+
+---
 
 **Tools:**  
 
@@ -24,6 +28,8 @@ Hi, I'm Raphael and I'm a Full Stack Developer and currently studying Computer S
 <code><img height="30"  src="./assets/mongodb-color.svg"></code>
 <code><img height="30"  src="./assets/microsoftazure-color.svg"></code>
 <code><img height="30"  src="./assets/githubactions-color.svg"></code>
+
+---
 
 **Languages and Frameworks:**
 
@@ -37,15 +43,21 @@ Hi, I'm Raphael and I'm a Full Stack Developer and currently studying Computer S
 <code><img height="30"  src="./assets/tailwindcss-color.svg"></code>
 <code><img height="30"  src="./assets/latex-color.svg"></code>
 
+---
+
 **Currently Learning:**
 
 <code><img height="30"  src="./assets/rust-color.svg"></code>
 <code><img height="30"  src="./assets/scala-color.svg"></code>
 
+---
+
 **Wanting to learn**
 
 <code><img height="30"  src="./assets/ocaml-color.svg"></code>
 <code><img height="30"  src="./assets/haskell-color.svg"></code>
+
+---
 
 ![Raphael's github stats](https://github-readme-stats.vercel.app/api?username=raphaelluethy&count_private=true&theme=dark&show_icons=true)
 ![Raphael's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelluethy&layout=compact&theme=dark)
