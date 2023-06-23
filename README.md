@@ -20,42 +20,43 @@ Hi, I'm Raphael and I'm a Full Stack Developer and currently studying Computer S
 
 **Tools:**  
 
-<code><img height="30"  src="./assets/neovim-color.svg"></code>
-<code><img height="30" src="./assets/intellijidea-color.svg"></code>
-<code><img height="30" src="./assets/docker-color.svg"></code>
-<code><img height="30"  src="./assets/postgresql-color.svg"></code>
-<code><img height="30"  src="./assets/mysql-color.svg"></code>
-<code><img height="30"  src="./assets/mongodb-color.svg"></code>
-<code><img height="30"  src="./assets/microsoftazure-color.svg"></code>
-<code><img height="30"  src="./assets/githubactions-color.svg"></code>
+![neovim-color](./assets/neovim-color.svg){height=30}
+![intellijidea-color](./assets/intellijidea-color.svg){height=30}
+![docker-color](./assets/docker-color.svg){height=30}
+![postgresql-color](./assets/postgresql-color.svg){height=30}
+![mysql-color](./assets/mysql-color.svg){height=30}
+![mongodb-color](./assets/mongodb-color.svg){height=30}
+![microsoftazure-color](./assets/microsoftazure-color.svg){height=30}
+![githubactions-color](./assets/githubactions-color.svg){height=30}
 
 ---
 
 **Languages and Frameworks:**
 
-<code><img height="30"  src="./assets/typescript-color.svg"></code>
-<code><img height="30"  src="./assets/javascript-color.svg"></code>
-<code><img height="30"  src="./assets/react-color.svg"></code>
-<code><img height="30"  src="./assets/kotlin-color.svg"></code>
-<code><img height="30"  src="./assets/java-color.svg"></code>
-<code><img height="30"  src="./assets/cplusplus-color.svg"></code>
-<code><img height="30"  src="./assets/lua-color.svg"></code>
-<code><img height="30"  src="./assets/tailwindcss-color.svg"></code>
-<code><img height="30"  src="./assets/latex-color.svg"></code>
+![typescript-color](./assets/typescript-color.svg){height=30}
+![javascript-color](./assets/javascript-color.svg){height=30}
+![react-color](./assets/react-color.svg){height=30}
+![kotlin-color](./assets/kotlin-color.svg){height=30}
+![java-color](./assets/java-color.svg){height=30}
+![cplusplus-color](./assets/cplusplus-color.svg){height=30}
+![lua-color](./assets/lua-color.svg){height=30}
+![tailwindcss-color](./assets/tailwindcss-color.svg){height=30}
+![latex-color](./assets/latex-color.svg){height=30}
 
 ---
 
 **Currently Learning:**
 
-<code><img height="30"  src="./assets/rust-color.svg"></code>
-<code><img height="30"  src="./assets/scala-color.svg"></code>
+![rust-color](./assets/rust-color.svg){height=30}
+![scala-color](./assets/scala-color.svg){height=30}
 
 ---
 
 **Wanting to learn**
 
-<code><img height="30"  src="./assets/ocaml-color.svg"></code>
-<code><img height="30"  src="./assets/haskell-color.svg"></code>
+![ocaml-color](./assets/ocaml-color.svg){height=30}
+![haskell-color](./assets/haskell-color.svg){height=30}
+
 
 ---
 
