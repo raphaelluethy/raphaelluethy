@@ -18,6 +18,14 @@ Hi, I'm Raphael and I'm a Full Stack Developer and currently studying Computer S
 
 ## Tools:
 
+### OS
+<div>
+    <img src="./assets/macos-color.svg" width="30" />
+    <img src="./assets/linux-color.svg" width="30" />
+</div>
+
+### Development
+
 <div>
     <img src="./assets/neovim-color.svg" width="30" />
     <img src="./assets/intellijidea-color.svg" width="30" />
@@ -29,7 +37,16 @@ Hi, I'm Raphael and I'm a Full Stack Developer and currently studying Computer S
     <img src="./assets/githubactions-color.svg" width="30" />
 </div>
 
+### Project Management
+<div>
+    <img src="./assets/linear-color.svg" width="30" />
+     <img src="./assets/jirasoftware-color.svg" width="30" />
+</div>
+
 ## Languages and Frameworks:
+
+### Currently Using:
+
 <div>
     <img src="./assets/typescript-color.svg" width="30" />
     <img src="./assets/javascript-color.svg" width="30" />
@@ -42,14 +59,15 @@ Hi, I'm Raphael and I'm a Full Stack Developer and currently studying Computer S
     <img src="./assets/latex-color.svg" width="30" />
 </div>
 
-## Currently Learning:
+### Currently Learning:
 
 <div>
     <img src="./assets/rust-color.svg" width="30" />
     <img src="./assets/scala-color.svg" width="30" />
+     <img src="./assets/trello-color.svg" width="30" />
 </div>
 
-## Wanting to learn
+### Wanting to learn
 
 <div>
     <img src="./assets/ocaml-color.svg" width="30" />
