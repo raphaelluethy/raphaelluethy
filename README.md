@@ -4,7 +4,16 @@
 
 Hi, I'm Raphael and I'm a Full Stack Developer and currently studying Computer Science.
 
-[My Stackoveflow](https://stackoverflow.com/users/12544632/raphaelluethy?tab=profile)
+<div>
+    <img src="./assets/notion-color.svg" width="10" />
+    <a href="https://nerdz.ch">Digital Garden</a>
+</div> 
+
+<div>
+    <img src="./assets/stackoverflow-color.svg" width="10" />
+    <a href="https://stackoverflow.com/users/12544632/raphaelluethy?tab=profile">Stackoveflow</a>
+</div> 
+
 
 <img align="right" width="300" alt="GIF" src="https://i.imgur.com/291lzxL.gif" />
 
@@ -12,9 +21,11 @@ Hi, I'm Raphael and I'm a Full Stack Developer and currently studying Computer S
 
 ## Vim Configs
 
-- [Neovim](https://github.com/raphaelluethy/nvim)
-- [IdeaVim](https://github.com/raphaelluethy/ideavim)
-- [VSCode Vim](https://github.com/raphaelluethy/vscode)
+<ul>
+  <li> <img src="./assets/neovim-color.svg" width="10" /> <a href="https://github.com/raphaelluethy/nvim">Neovim</a></li>
+  <li> <img src="./assets/intellijidea-color.svg" width="10" /> <a href="https://github.com/raphaelluethy/ideavim">IdeaVim</a></li>
+  <li> <img src="./assets/visualstudiocode-color.svg" width="10" /> <a href="https://github.com/raphaelluethy/vscode">VSCode Vim</a></li>
+</ul>
 
 ## Tools:
 
