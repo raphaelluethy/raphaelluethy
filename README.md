@@ -52,6 +52,7 @@ Hi, I'm Raphael and I'm a Full Stack Developer and currently studying Computer S
 <div>
     <img src="./assets/linear-color.svg" width="30" />
      <img src="./assets/jirasoftware-color.svg" width="30" />
+      <img src="./assets/trello-color.svg" width="30" />
 </div>
 
 ## Languages and Frameworks:
@@ -75,7 +76,6 @@ Hi, I'm Raphael and I'm a Full Stack Developer and currently studying Computer S
 <div>
     <img src="./assets/rust-color.svg" width="30" />
     <img src="./assets/scala-color.svg" width="30" />
-     <img src="./assets/trello-color.svg" width="30" />
 </div>
 
 ### Wanting to learn
