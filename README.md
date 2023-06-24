@@ -17,8 +17,6 @@ Hi, I'm Raphael and I'm a Full Stack Developer and currently studying Computer S
 
 <img align="right" width="300" alt="GIF" src="https://i.imgur.com/291lzxL.gif" />
 
----
-
 ## Vim Configs
 
 <ul>
