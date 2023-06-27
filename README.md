@@ -4,6 +4,9 @@
 
 Hi, I'm Raphael and I'm a Full Stack Developer and currently studying Computer Science.
 
+#### Contact
+raphael[at]luethy.io
+
 <div>
     <img src="./assets/notion-color.svg" width="10" />
     <a href="https://nerdz.ch">Digital Garden</a>
