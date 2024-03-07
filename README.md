@@ -4,16 +4,6 @@
 
 Hi, I'm Raphael and I'm a Full Stack Developer and currently studying Computer Science.
 
-<div>
-    <img src="./assets/notion-color.svg" width="10" />
-    <a href="https://nerdz.ch">Digital Garden</a>
-</div> 
-
-<div>
-    <img src="./assets/stackoverflow-color.svg" width="10" />
-    <a href="https://stackoverflow.com/users/12544632/raphaelluethy?tab=profile">Stackoveflow</a>
-</div> 
-
 
 <img align="right" width="300" alt="GIF" src="https://i.imgur.com/291lzxL.gif" />
 
