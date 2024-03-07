@@ -1,9 +1,12 @@
 ### Hi there 👋
 
 <br />
+<img align="right" width="300" alt="GIF" src="https://i.imgur.com/291lzxL.gif" />
+Hi, I'm Raphael and I'm a Full Stack Developer <br />
+and currently studying Computer Science. <br />
 
-Hi, I'm Raphael and I'm a Full Stack Developer and currently studying Computer Science.
 
+#### I use VIM btw...
 <div>
     <img src="./assets/neovim-color.svg" width="10" /> 
     <a href="https://github.com/raphaelluethy/nvim">Neovim</a>
@@ -19,8 +22,8 @@ Hi, I'm Raphael and I'm a Full Stack Developer and currently studying Computer S
   <a href="https://github.com/raphaelluethy/vscode">VSCode Vim</a>
 </div> 
 
+<br />
 
-<img align="right" width="300" alt="GIF" src="https://i.imgur.com/291lzxL.gif" />
 
 ## Tools:
 
