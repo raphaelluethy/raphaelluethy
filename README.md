@@ -55,7 +55,7 @@ and currently studying Computer Science. <br />
 
 ## Languages and Frameworks:
 
-### Currently Using:
+### Using / Used:
 
 <div>
     <img src="./assets/typescript-color.svg" width="30" />
@@ -72,8 +72,8 @@ and currently studying Computer Science. <br />
 ### Currently Learning:
 
 <div>
+    <img src="./assets/go-color.svg" width="30" />
     <img src="./assets/rust-color.svg" width="30" />
-    <img src="./assets/scala-color.svg" width="30" />
 </div>
 
 ### Wanting to learn
