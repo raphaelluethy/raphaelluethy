@@ -72,7 +72,6 @@ and currently studying Computer Science. <br />
 ### Currently Learning:
 
 <div>
-    <img src="./assets/go-color.svg" width="30" />
     <img src="./assets/rust-color.svg" width="30" />
 </div>
 
@@ -80,7 +79,6 @@ and currently studying Computer Science. <br />
 
 <div>
     <img src="./assets/ocaml-color.svg" width="30" />
-    <img src="./assets/haskell-color.svg" width="30" />
 </div>
 
 ## Stats
