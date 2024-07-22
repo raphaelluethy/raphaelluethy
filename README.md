@@ -8,18 +8,10 @@ and starting my Masters Degree in Autumn 24. <br />
 
 #### I use VIM btw...
 <div>
-    <img src="./assets/neovim-color.svg" width="10" /> 
     <a href="https://github.com/raphaelluethy/nvim">Neovim</a>
-</div> 
-
-<div>
-    <img src="./assets/intellijidea-color.svg" width="10" /> 
     <a href="https://github.com/raphaelluethy/ideavim">IdeaVim</a>
-</div> 
-
-<div>
-   <img src="./assets/visualstudiocode-color.svg" width="10" /> 
-  <a href="https://github.com/raphaelluethy/vscode">VSCode Vim</a>
+    <a href="https://gist.github.com/raphaelluethy/9d6d93995b49fdd5b1927d3dc93c92c1">Zed</a>
+    <a href="https://github.com/raphaelluethy/vscode">VSCode Vim</a>
 </div> 
 
 <br />
@@ -33,53 +25,20 @@ and starting my Masters Degree in Autumn 24. <br />
     <img src="./assets/linux-color.svg" width="30" />
 </div>
 
-### Development
+### Languages
+**Using**
+- Go
+- TS/JS
+- Python
+- Java
 
-<div>
-    <img src="./assets/neovim-color.svg" width="30" />
-    <img src="./assets/intellijidea-color.svg" width="30" />
-    <img src="./assets/docker-color.svg" width="30" />
-    <img src="./assets/postgresql-color.svg" width="30" />
-    <img src="./assets/mysql-color.svg" width="30" />
-    <img src="./assets/mongodb-color.svg" width="30" />
-    <img src="./assets/microsoftazure-color.svg" width="30" />
-    <img src="./assets/githubactions-color.svg" width="30" />
-</div>
+**Used/Learned**
+- C/C++
+- Haskell (Lectures only)
 
-### Project Management
-<div>
-    <img src="./assets/linear-color.svg" width="30" />
-     <img src="./assets/jirasoftware-color.svg" width="30" />
-      <img src="./assets/trello-color.svg" width="30" />
-</div>
-
-## Languages and Frameworks:
-
-### Using / Used:
-
-<div>
-    <img src="./assets/typescript-color.svg" width="30" />
-    <img src="./assets/javascript-color.svg" width="30" />
-    <img src="./assets/react-color.svg" width="30" />
-    <img src="./assets/kotlin-color.svg" width="30" />
-    <img src="./assets/java-color.svg" width="30" />
-    <img src="./assets/cplusplus-color.svg" width="30" />
-    <img src="./assets/lua-color.svg" width="30" />
-    <img src="./assets/tailwindcss-color.svg" width="30" />
-    <img src="./assets/latex-color.svg" width="30" />
-</div>
-
-### Currently Learning:
-
-<div>
-    <img src="./assets/rust-color.svg" width="30" />
-</div>
-
-### Wanting to learn
-
-<div>
-    <img src="./assets/ocaml-color.svg" width="30" />
-</div>
+**Learning**
+- Zig
+- Rust
 
 ## Stats
 
