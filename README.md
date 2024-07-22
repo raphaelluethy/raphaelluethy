@@ -7,10 +7,10 @@ and starting my Masters Degree in Autumn 24. <br />
 
 
 #### I use VIM btw...
-[Neovim](https://github.com/raphaelluethy/nvim)
-[IdeaVim](https://github.com/raphaelluethy/ideavim)
-[Zed](https://gist.github.com/raphaelluethy/9d6d93995b49fdd5b1927d3dc93c92c1)
-[VSCode Vim](https://github.com/raphaelluethy/vscode)
+- [Neovim](https://github.com/raphaelluethy/nvim)
+- [IdeaVim](https://github.com/raphaelluethy/ideavim)
+- [Zed](https://gist.github.com/raphaelluethy/9d6d93995b49fdd5b1927d3dc93c92c1)
+- [VSCode Vim](https://github.com/raphaelluethy/vscode)
 <br />
 
 
