@@ -3,7 +3,7 @@
 <br />
 <img align="right" width="300" alt="GIF" src="https://i.imgur.com/291lzxL.gif" />
 Hi, I'm Raphael and I'm a Full Stack Developer <br />
-and starting my Masters Degree in Autumn 24. <br />
+and doing my masters degree @FHNW <br />
 
 
 #### I use VIM btw...
