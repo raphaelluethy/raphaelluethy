@@ -16,9 +16,3 @@ and doing my masters degree @FHNW <br />
 - Go
 - TS/JS
 - Zig (But I am still not good at it...)
-
-
-## Stats
-
-![Raphael's github stats](https://github-readme-stats.vercel.app/api?username=raphaelluethy&count_private=true&theme=dark&show_icons=true)
-![Raphael's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelluethy&layout=compact&theme=dark)
