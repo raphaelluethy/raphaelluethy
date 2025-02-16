@@ -8,34 +8,15 @@ and doing my masters degree @FHNW <br />
 
 #### I use VIM btw...
 - [Neovim](https://github.com/raphaelluethy/nvim)
-- [IdeaVim](https://github.com/raphaelluethy/ideavim)
 - [Zed](https://gist.github.com/raphaelluethy/9d6d93995b49fdd5b1927d3dc93c92c1)
-- [VSCode Vim](https://github.com/raphaelluethy/vscode)
 <br />
 
-
-## Tools:
-
-### OS
-<div>
-    <img src="./assets/macos-color.svg" width="30" />
-    <img src="./assets/linux-color.svg" width="30" />
-</div>
-
-### Languages
+### Fav Languages
 **Using**
 - Go
 - TS/JS
-- Python
-- Java
+- Zig (But I am still not good at it...)
 
-**Used/Learned**
-- C/C++
-- Haskell (Lectures only)
-
-**Learning**
-- Zig
-- Rust
 
 ## Stats
 
